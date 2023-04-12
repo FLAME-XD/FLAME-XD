@@ -1,4 +1,3 @@
-### Hi I'am FLAME-XD 👋
 
 `Joo X Nano [ FLAME-XD ]`
 
