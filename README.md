@@ -4,9 +4,10 @@
 ```python
 ┌─
 │ ┌[!] Media Sosial Me 🌍🌍
-│ ├[+] Author  : Joo X Nano [ FLAME-XD ]
-│ ├[+] YouTube : None
-│ └[+] Contact : +62895339210207
+│ ├[+] Author    : Joo X Nano [ FLAME-XD ]
+│ ├[+] Team Code : XTC CODE & XNXCODE
+│ ├[+] YouTube   : False
+│ └[+] Status    : Unknown
 └─
 ┌─
 │ ┌[!] Programmer Game
