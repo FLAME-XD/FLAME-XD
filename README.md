@@ -4,7 +4,7 @@
 ```python
 ┌─
 │ ┌[!] Media Sosial Me 🌍🌍
-│ ├[+] Author    : Joo X Nano [ FLAME-XD ]
+│ ├[+] Developer : Joo X Nano [ FLAME-XD ]
 │ ├[+] Team Code : XTC CODE & XNXCODE
 │ ├[+] YouTube   : False
 │ └[+] Status    : Unknown
