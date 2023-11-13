@@ -7,6 +7,7 @@
 │ ├[+] Developer : Joo X Nano [ FLAME-XD ]
 │ ├[+] Team Code : XTC CODE & XNXCODE
 │ ├[+] YouTube   : False
+│ ├[+] spekulasi : trader & investor
 │ └[+] Status    : Unknown
 └─
 ┌─
